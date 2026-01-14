@@ -23,7 +23,7 @@ while True:
             
             else:
                 if user_num1 == 0 or user_num2 == 0:
-                    raise ValueError("Enter only numbers higher than 0")
+                    raise ZeroDivisionError("Enter only numbers higher than 0")
                 else:
                     print("choose correct operation ")
         
