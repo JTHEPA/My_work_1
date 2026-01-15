@@ -1,0 +1,17 @@
+Welcome, This is Word Count Program
+
+An API (application programming interface) is a server that lets you request and send data using code. 
+
+It works as a bridge between your app and external systems.
+
+You get valuable data without having to gather it manually.
+
+Think of an API as a waiter at a restaurant. You tell the waiter what you want.
+
+They take your order to the kitchen. The kitchen prepares your food. 
+
+The waiter brings it back to you.
+
+When you work with a Python API, you send a request to an API server. 
+
+It processes your request. Then it sends back the results.
